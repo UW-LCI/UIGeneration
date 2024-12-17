@@ -1,0 +1,29 @@
+{
+    "canvas_size": [1024, 1024],
+    "layers": [
+      {
+        "folder": "navbar",
+        "resize": [1024, 100],
+        "position": [0, 0]
+      },
+      {
+        "folder": "profile",
+        "resize": [300, 300],
+        "position": [100, 100],
+        "repeat_range": [1, 1]
+      },
+      {
+        "folder": "text",
+        "resize": [800, 200],
+        "random_position": true,
+        "repeat_range": [2, 5]
+      },
+      {
+        "folder": "botton",
+        "resize": [150, 50],
+        "random_position": true,
+        "repeat_range": [3, 5]
+      }
+    ]
+  }
+  
